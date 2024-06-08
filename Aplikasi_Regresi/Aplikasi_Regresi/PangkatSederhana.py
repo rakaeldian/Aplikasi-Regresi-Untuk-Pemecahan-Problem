@@ -3,6 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
 
+#Raka Eldiansyah Putra
+#21120122140150
+
 data_url = r"C:\Users\Public\Download\student_performance.csv"
 data = pd.read_csv(data_url)
 
