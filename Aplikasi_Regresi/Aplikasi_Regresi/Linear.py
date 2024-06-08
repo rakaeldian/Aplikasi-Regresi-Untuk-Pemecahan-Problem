@@ -8,7 +8,7 @@ from sklearn.metrics import mean_squared_error
 #21120122140150
 
 # Mengambil data
-data_url = r"C:\Users\Public\python-2\student_performance.csv"  # Ganti dengan path yang sesuai
+data_url = r"C:\Users\Public\Download\student_performance.csv"
 data = pd.read_csv(data_url)
 
 # Memilih kolom yang relevan
